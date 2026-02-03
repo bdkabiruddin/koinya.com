@@ -1,8 +1,8 @@
 <?php return array(
     'root' => array(
         'name' => 'roots/bedrock',
-        'pretty_version' => '1.28.4',
-        'version' => '1.28.4.0',
+        'pretty_version' => '1.0.0+no-version-set',
+        'version' => '1.0.0.0',
         'reference' => null,
         'type' => 'project',
         'install_path' => __DIR__ . '/../../',
@@ -62,8 +62,8 @@
             'dev_requirement' => false,
         ),
         'roots/bedrock' => array(
-            'pretty_version' => '1.28.4',
-            'version' => '1.28.4.0',
+            'pretty_version' => '1.0.0+no-version-set',
+            'version' => '1.0.0.0',
             'reference' => null,
             'type' => 'project',
             'install_path' => __DIR__ . '/../../',
